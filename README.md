@@ -76,3 +76,8 @@ npx @dcloudio/uvm@latest
 ```
 
 > 运行方式：打开 微信开发者工具, 导入 `dist\dev\mp-weixin` 运行。
+
+## 预览
+看到以下界面就是运行成功啦
+
+<img src="https://www.zowlsat.com/usr/uploads/2023/11/1668793754.jpg" alt="demo">
